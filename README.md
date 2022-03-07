@@ -1,1 +1,1 @@
-# hello-world
+Hi, I'm Koby or SkullWalkerX! I was born and raised in San Jose, California. After I graduated from Santa Teresa High School, I attended De Anza College and then transferred to San Jose State University to pursue my BFA in Digital Media Art. Art has always been my passion since I was little, but I have just recently taken it seriously, and I love every moment of it, from the friends I've made and just making art! I specialize in traditional and digital drawing and painting. I have experience with software programs such as Adobe programs, p5.js, and more.
